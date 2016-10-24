@@ -1,44 +1,52 @@
 # Estrategia-Digital
 Propuesta de digitalización de servicios
 
-Cuál es la propuesta?
+## Cuál es la propuesta?
 
 Conformar un equipo de desarrollo central que provea plataforma y recursos para que cada dependencia pueda brindar sus servicios de manera digital.
 
-Fundamentos:
+## Fundamentos:
 
-Económicos.
+### Económicos.
   - Resulta mucho más económico brindar servicios de manera digital.
   - Una visión holística del problema permite un mejor aprovechamiento de los recursos a travez de su consideración en cada aspecto.
-Políticos.
+  
+### Políticos.
   - Transparencia.
   - Imágen.
   - Eficiencia cuantificable.
-Sociales.
+  
+### Sociales.
   - Disminuye el tiempo 'perdido' en trámites.
   - Minimiza la necesidad de licencias y permisos.
   - Genera confianza.
   - Minimiza la atención al público (tarea estresante).
-Técnicos.
+  
+### Técnicos.
   - Eficiencia.
   - Agilidad.
   - Economía.
 
-Requisitos:
-Recursos materiales.
+## Requisitos
+
+### Recursos materiales.
   - Servidores commodity.
   - Infraestructura de red.
   - Espacios de desarrollo y formación.
-Transferencia tecnológica.
+  
+### Transferencia tecnológica.
   - Adaptación de programas secundarios y universitarios.
   - Talleres, cursos y certificaciones.
   - Programas de pasantías y becas.
   - Concursos, hackatones, etc.
-Recursos humanos.
-Normativa.
+  
+### Recursos humanos.
 
-Qué va a brindar el equipo central?
-Servicios transversales.
+### Normativa.
+
+## Qué va a brindar el equipo central?
+
+### Servicios transversales.
   - Autenticación.
   - Logeo.
   - Monitoreo.
@@ -46,7 +54,8 @@ Servicios transversales.
   - Procesamiento de datos.
   - Almacenamiento.
   - Servicios de bases de datos y serverless.
-Recursos.
+  
+### Recursos.
   - Boilerplates.
   - Widgets.
   - Contenedores.
@@ -55,11 +64,11 @@ Recursos.
   - Mejores prácticas.
   - Consultoría.
 
-Qué experiencias similares existen?
-Qué podemos aprender de sus aciertos y fracasos?
-Qué material y recursos hay disponibles al respecto?
+## Qué experiencias similares existen?
+## Qué podemos aprender de sus aciertos y fracasos?
+## Qué material y recursos hay disponibles al respecto?
 
-Etapas.
+## Etapas.
 En una etapa inicial desarrollar e implementar un par de servicios a la par que se evolucionan los servicios transversales, la metodología y la arquitectura.
 
 En una segunda etapa generar pasantías de estudiantes a cargo de informatizar servicios en algunas dependencias.
