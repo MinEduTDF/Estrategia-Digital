@@ -51,8 +51,8 @@ Definen los lineamientos que viabilizan el desarrollo de plataformas y herramien
 * Robustez.
 * Flexibilidad.
 
-### Servicios transversales
-
+### Recursos
+#### Servicios transversales
 * Autenticación.
 * Logeo.
 * Monitoreo.
@@ -61,7 +61,7 @@ Definen los lineamientos que viabilizan el desarrollo de plataformas y herramien
 * Almacenamiento.
 * Servicios de bases de datos y serverless.
   
-### Recursos.
+#### Herramientas
 * Boilerplates.
 * Widgets.
 * Contenedores.
