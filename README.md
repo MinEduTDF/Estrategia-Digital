@@ -8,31 +8,67 @@ Conformar un equipo de desarrollo central que provea plataforma y recursos para 
 ## Fundamentos:
 
 ### Económicos.
-  - Resulta mucho más económico brindar servicios de manera digital.
-  - Una visión holística del problema permite un mejor aprovechamiento de los recursos a travez de su consideración en cada aspecto.
+* Resulta mucho más económico brindar servicios de manera digital.
+* Una visión holística del problema permite un mejor aprovechamiento de los recursos a travez de su consideración en cada aspecto.
   
 ### Políticos.
-  - Transparencia.
-  - Imágen.
-  - Eficiencia cuantificable.
+* Transparencia.
+* Imágen.
+* Eficiencia cuantificable.
   
 ### Sociales.
-  - Disminuye el tiempo 'perdido' en trámites.
-  - Minimiza la necesidad de licencias y permisos.
-  - Genera confianza.
-  - Minimiza la atención al público (tarea estresante).
+* Disminuye el tiempo 'perdido' en trámites.
+* Minimiza la necesidad de licencias y permisos.
+* Genera confianza.
+* Minimiza la atención al público (tarea estresante).
   
 ### Técnicos.
-  - Eficiencia.
-  - Agilidad.
-  - Economía.
+* Eficiencia.
+* Agilidad.
+* Economía.
 
 ## Requisitos
 
 ### Recursos materiales.
-  - Servidores commodity.
-  - Infraestructura de red.
-  - Espacios de desarrollo y formación.
+* Servidores commodity.
+* Infraestructura de red.
+* Espacios de desarrollo y formación.
+
+  
+### Recursos humanos.
+
+### Normativa.
+
+## Qué va a brindar el equipo central?
+### Standards.
+
+Definen los lineamientos que viabilizan el desarrollo de plataformas y herramientas que cumplan las metas de excelencia.
+
+* Economía / Eficiencia
+* Seguridad.
+* Accesibilidad.
+* Agilidad.
+* Robustez.
+* Flexibilidad.
+
+### Servicios transversales
+
+* Autenticación.
+* Logeo.
+* Monitoreo.
+* Chat ops.
+* Procesamiento de datos.
+* Almacenamiento.
+* Servicios de bases de datos y serverless.
+  
+### Recursos.
+* Boilerplates.
+* Widgets.
+* Contenedores.
+* Entornos de desarrollo.
+* Procedimientos.
+* Mejores prácticas.
+* Consultoría.
   
 ### Transferencia tecnológica.  
 Consta de una serie de recursos y estrategias de capacitación orientadas a la formación de profesionales y a la promoción de una cultura local de desarrollo abierto y de excelencia.
@@ -44,31 +80,6 @@ Consta de una serie de recursos y estrategias de capacitación orientadas a la f
 * Talleres y encuentros abiertos al público en general.
 * Fomento para la creación de clubes y comunidades de desarrollo.
 * Colaboración en el desarrollo y evolución de diseños y contenidos curriculares.
-
-  
-### Recursos humanos.
-
-### Normativa.
-
-## Qué va a brindar el equipo central?
-
-### Servicios transversales.
-  - Autenticación.
-  - Logeo.
-  - Monitoreo.
-  - Chat ops.
-  - Procesamiento de datos.
-  - Almacenamiento.
-  - Servicios de bases de datos y serverless.
-  
-### Recursos.
-  - Boilerplates.
-  - Widgets.
-  - Contenedores.
-  - Entornos de desarrollo.
-  - Procedimientos.
-  - Mejores prácticas.
-  - Consultoría.
 
 ## Qué experiencias similares existen?
 ## Qué podemos aprender de sus aciertos y fracasos?
