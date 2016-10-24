@@ -34,11 +34,17 @@ Conformar un equipo de desarrollo central que provea plataforma y recursos para 
   - Infraestructura de red.
   - Espacios de desarrollo y formación.
   
-### Transferencia tecnológica.
-  - Adaptación de programas secundarios y universitarios.
-  - Talleres, cursos y certificaciones.
-  - Programas de pasantías y becas.
-  - Concursos, hackatones, etc.
+### Transferencia tecnológica.  
+Consta de una serie de recursos y estrategias de capacitación orientadas a la formación de profesionales y a la promoción de una cultura local de desarrollo abierto y de excelencia.
+
+    * Pasantías de alumnos de nivel medio con orientación en programación y diseño.
+    * Pasantías de alumnos universitarios del último año de análista.
+    * Pasantías de alumnos del último año de la licenciatura en informática.
+    * Espacios de tecnoteca y consultoría para proyectos académicos.
+    * Talleres y encuentros abiertos al público en general.
+    * Fomento para la creación de clubes y comunidades de desarrollo.
+    * Colaboración en el desarrollo y evolución de diseños y contenidos curriculares.
+
   
 ### Recursos humanos.
 
