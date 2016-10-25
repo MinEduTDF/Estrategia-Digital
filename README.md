@@ -44,12 +44,26 @@ Conformar un equipo de desarrollo central que provea plataforma y recursos para 
 
 Definen los lineamientos que viabilizan el desarrollo de plataformas y herramientas que cumplan las metas de excelencia.
 
+#### Metas
+
 * Economía / Eficiencia
 * Seguridad.
 * Accesibilidad.
 * Agilidad.
 * Robustez.
 * Flexibilidad.
+
+#### Lineamientos
+
+* PWA.
+* 12 Factores.
+* Entrega continua.
+* Standard de seguridad c/https, csp, headers, etc.
+* Standard de a11y.
+* De performance (gtmetrix, wpt).
+* Standard de diseño / manual de imágen.
+* Rest.
+* Infraestructura como código.
 
 ### Recursos
 #### Servicios transversales
@@ -68,7 +82,6 @@ Definen los lineamientos que viabilizan el desarrollo de plataformas y herramien
 * Entornos de desarrollo.
 * Procedimientos.
 * Mejores prácticas.
-* Consultoría.
   
 ### Transferencia tecnológica.  
 Consta de una serie de recursos y estrategias de capacitación orientadas a la formación de profesionales y a la promoción de una cultura local de desarrollo abierto y de excelencia.
