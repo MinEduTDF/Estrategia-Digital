@@ -1,8 +1,8 @@
 # Estrategia-Digital
 Propuesta de digitalización de servicios
 
-  Las organizaciones que diseñan   sistemas están limitadas a producir diseños que son copias de las estructuras de comunicación de estas organizaciones.
-  Melvin Conway
+> Las organizaciones que diseñan   sistemas están limitadas a producir diseños que son copias de las estructuras de comunicación de estas organizaciones.
+> -Melvin Conway
   
 Hay metas que son comunes a todo estado:
 - Maximizar el aprovechamiento de los recursos.
